@@ -1,2 +1,15 @@
-# 211830731-struktur-data
-Berisi program dalam mata kuliah struktur data
+
+# 📚 Struktur Data
+
+This repository contains a collection of programming code from the **Data Structure** course at my university with a total of 3 credits that I took in the 2021/2022 academic year.
+
+
+## ⚙️Tech Stack
+
+- Full Of **C++**
+
+
+## ⚠️ License
+
+- [MIT](https://choosealicense.com/licenses/mit/)
+
